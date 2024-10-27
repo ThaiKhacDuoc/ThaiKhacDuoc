@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Information Technology - Japanese Language**
 
-- 💬 Ask me about **Canva, Figma, HTML, CSS, Javascript, ReactJS, Ruby on Rails, TailwindCSS**
+- 💬 Ask me about **Figma, Ruby, HTML, CSS, NextJS , Typescript, ReactJS, Ruby on Rails, TailwindCSS, Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ThaiKhacDuoc?tab=repositories](https://github.com/ThaiKhacDuoc?tab=repositories)
 
